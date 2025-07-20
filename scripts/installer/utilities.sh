@@ -36,5 +36,6 @@ run_command "cp -r /home/$SUDO_USER/edited-hyprland-config/configs/hypr/hypridle
 run_command "sudo pacman -S power-profiles-daemon" "Install power-profile-daemon" "yes" "no"
 
 run_command "sudo pacman -S pipewire-pulse" "Install optional pack for pipewire" "yes" "no"
+run_command "sudo pacman -S swaync" "Install swaync for nofify" "yes" "no"
 
 echo "------------------------------------------------------------------------"
