@@ -1,0 +1,1 @@
+# edited-hyprland-config
