@@ -33,7 +33,7 @@ run_command "yay -S --sudoloop --noconfirm hyprshot" "Install Grimblast - Screen
 run_command "yay -S --sudoloop --noconfirm hypridle" "Install Hypridle for idle management (Must)" "yes" "no"
 run_command "cp -r /home/$SUDO_USER/edited-hyprland-config/configs/hypr/hypridle.conf /home/$SUDO_USER/.config/hypr/" "Copy Hypridle config" "yes" "no"
 
-run_command "sudo pacman -S power-profile-daemon" "Install power-profile-daemon" "yes" "no"
+run_command "sudo pacman -S power-profiles-daemon" "Install power-profile-daemon" "yes" "no"
 
 run_command "sudo pacman -S pipewire-pulse" "Install optional pack for pipewire" "yes" "no"
 
