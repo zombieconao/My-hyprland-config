@@ -7,14 +7,14 @@
     "gtk-layer-shell": true,
     "height": 0,
     "modules-left": [
-        "clock"
+        "clock",
+	"power-profiles-daemon"
 //        "hyprland/workspaces"
     ],
     "modules-center": ["hyprland/workspaces"],
     "modules-right": [
         "tray",
         "network",
-        "power-profiles-daemon",
         "battery",
         "backlight",
         "pulseaudio",
