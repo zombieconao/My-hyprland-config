@@ -119,7 +119,7 @@ window#waybar {
 }
 #power-profiles-daemon {
     color: #a6adc8;
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px 10px 10px 10px;
     margin-left: 10px;   
 }
 #custom-notification {
