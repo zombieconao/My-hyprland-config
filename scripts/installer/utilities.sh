@@ -38,4 +38,6 @@ run_command "sudo pacman -S power-profiles-daemon" "Install power-profile-daemon
 run_command "sudo pacman -S pipewire-pulse" "Install optional pack for pipewire" "yes" "no"
 run_command "sudo pacman -S swaync" "Install swaync for nofify" "yes" "no"
 
+run_command "yay -S waypaper" "Install a GUI wallpaper select" "yes" "no"
+
 echo "------------------------------------------------------------------------"
