@@ -15,7 +15,7 @@ run_command "pacman -S --noconfirm qt5ct qt6ct kvantum" "Install Qt5, Qt6 Settin
 
 run_command "tar -xvf /home/$SUDO_USER/edited-hyprland-config/assets/themes/Catppuccin-Mocha.tar.xz -C /usr/share/themes/" "Install Catppuccin Mocha GTK theme" "yes" 
 
-run_command "tar -xvf /home/$SUDO_USER/edited-hyprland-config/assets/icons/Tela-circle-dracula.tar.xz -C /usr/share/icons/" "Install Tela Circle Dracula icon theme" "yes"
+run_command "tar -xvf /home/$SUDO_USER/edited-hyprland-config/assets/icons/Tela-gray.tar.xz -C /usr/share/icons/" "Install Tela Grey Dark icon theme" "yes"
 
 run_command "yay -S --sudoloop --noconfirm kvantum-theme-catppuccin-git" "Install Catppuccin theme for Kvantum" "yes" "no"
 

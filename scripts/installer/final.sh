@@ -7,7 +7,7 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source $SCRIPT_DIR/helper.sh
 
 log_message "Final setup script started"
-print_bold_blue "\nCongratulations! Your Simple Hyprland setup is complete!"
+print_bold_blue "\nCongratulations! Your Hyprland setup is complete!"
 
 print_bold_blue "\nRepository Information:"
 echo "   - GitHub Repository: https://zombieconao/edited-hyprland-config"
