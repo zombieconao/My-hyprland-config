@@ -16,10 +16,20 @@ window#waybar {
     padding: 5px;
     color: #555869;
     margin-right: 5px;
+    transition: all 0.2s ;
 }
 
 #workspaces button.active {
-    color: #a6adc8;
+    background: #C0D6FF;
+    color: #11111b;
+    border-radius: 10px 10px 10px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#workspaces button:nth-child(n+7) {
+
+       
+
 }
 
 #workspaces button.focused {
@@ -122,7 +132,7 @@ window#waybar {
     border-radius: 10px 10px 10px 10px;
     padding-left: 10px;
     padding-right: 16px;
-    margin-left: 10px;   
+    margin-left: 10px;
 }
 #custom-notification {
     color: #a6adc8;
