@@ -12,7 +12,7 @@ print_info "\nStarting utilities setup..."
 run_command "pacman -S --noconfirm waybar" "Install Waybar - Status Bar" "yes"
 run_command "cp -r /home/$SUDO_USER/edited-hyprland-config/configs/waybar /home/$SUDO_USER/.config/" "Copy Waybar config" "yes" "no"
 
-run_command "yay -S --sudoloop --noconfirm wofi" "Install Wofi - Application Launcher" "yes" "no"
+run_command "pacman -S --noconfirm wofi" "Install Wofi - Application Launcher" "yes" "no"
 run_command "cp -r /home/$SUDO_USER/edited-hyprland-config/configs/wofi /home/$SUDO_USER/.config/" "Copy Wofi config(s)" "yes" "no"
 
 run_command "pacman -S --noconfirm cliphist" "Install Cliphist - Clipboard Manager" "yes"
