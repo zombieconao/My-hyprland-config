@@ -127,16 +127,46 @@ window#waybar {
     border-radius: 10px 0px 0px 10px;
     margin-left: 10px;
 }
-#power-profiles-daemon {
+#power-profiles-daemon.performance {
+    color: #a6adc8;
+    border-radius: 10px 10px 10px 10px;
+    padding-left: 10px;
+    padding-right: 14px;
+    margin-left: 10px;
+}
+#power-profiles-daemon.balanced {
+    color: #a6adc8;
+    border-radius: 10px 10px 10px 10px;
+    padding-left: 10px;
+    padding-right: 18px;
+    margin-left: 10px;
+}
+#power-profiles-daemon.power-saver {
     color: #a6adc8;
     border-radius: 10px 10px 10px 10px;
     padding-left: 10px;
     padding-right: 16px;
     margin-left: 10px;
 }
-#custom-notification {
+#custom-notification.none {
     color: #a6adc8;
     border-radius: 10px 10px 10px 10px;
     margin-right: 10px;
     margin-left: 5px;
+    padding-right: 13px;
 }
+#custom-notification.dnd-none {
+    color: #a6adc8;
+    border-radius: 10px 10px 10px 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    padding-right: 10px;
+}
+#custom-notification.dnd-notification {
+    color: #a6adc8;
+    border-radius: 10px 10px 10px 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    padding-right: 12px;
+}
+
