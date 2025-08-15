@@ -1,4 +1,4 @@
-# edited-hyprland-config
+# My Hyprland Config
 
 This is my hyprland config based on gaurav23b's simple hyprland config.
 I just upload on github for save this config but you can copy it if you want 😉
