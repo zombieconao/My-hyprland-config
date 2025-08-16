@@ -39,5 +39,6 @@ run_command "sudo pacman -S pipewire-pulse" "Install optional pack for pipewire"
 run_command "sudo pacman -S swaync" "Install swaync for nofify" "yes" "no"
 
 run_command "yay -S waypaper" "Install a GUI wallpaper select" "yes" "no"
+run_command "cp -r /home/$SUDO_USER/edited-hyprland-config/configs/waypaper /home/$SUDO_USER/.config/" "Copy Waypaper config" "yes" "no"
 
 echo "------------------------------------------------------------------------"
