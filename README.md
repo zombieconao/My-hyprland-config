@@ -3,6 +3,10 @@
 This is my hyprland config based on gaurav23b's simple hyprland config.
 I just upload on github for save this config but you can copy it if you want 😉
 
+Here is a peek of my desktop:
+![Preview](Github-repo/screenshot#1.png)]
+![Preview](Github-repo/screenshot#1.png)]
+
 # NOTE!!!!
 - This is not completed yet so there may has some bug/error.
 - This is made only for Arch (and based).
