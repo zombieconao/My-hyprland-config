@@ -12,8 +12,18 @@ I just upload on github for save this config but you can copy it if you want ðŸ˜
 sudo pacman -S hyprpaper
 ```
 # Installation
-1. git clone the repository to your home folder:
+1. Clone the repository to your home folder:
 ```
-git clone https://github.com/zombieconao/My-hyprland-config.git ~/hyprland-config
+git clone https://github.com/zombieconao/My-hyprland-config.git ~/My-hyprland-config
 ```
-and...... i haven't done yet :(
+2. Navigate to the installer directory:
+```
+cd ~/My-hyprland-config/scripts/installer/
+```
+3. Run the installation script with sudo:
+```
+sudo sh install.sh
+```
+4. Reboot your system:
+```sudo reboot
+```
