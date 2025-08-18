@@ -25,5 +25,6 @@ cd ~/My-hyprland-config/scripts/installer/
 sudo sh install.sh
 ```
 4. Reboot your system:
-```sudo reboot
+```
+sudo reboot
 ```
