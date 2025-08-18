@@ -1,4 +1,4 @@
-* {
+ * {
     border: none;
     border-radius: 0;
     font-family:  "JetBrainsMono Nerd Font","Font Awesome 6 Free", monospace;
@@ -6,7 +6,6 @@
     font-size: 14px;
     min-height: 0;
 }
-
 window#waybar {
     background: rgba(21, 18, 27, 0);
     color: #cdd6f4;
@@ -26,11 +25,7 @@ window#waybar {
     padding-left: 15px;
     padding-right: 15px;
 }
-#workspaces button:nth-child(n+7) {
 
-       
-
-}
 
 #workspaces button.focused {
     color: #a6adc8;
@@ -61,6 +56,7 @@ window#waybar {
 #tray,
 #power-profiles-daemon,
 #custom-notification,
+#mpris,
 #backlight {
     background: #1e1e2e;
     padding: 0px 10px;
@@ -70,7 +66,7 @@ window#waybar {
 }
 
 #backlight {
-    border-radius: 0px 10px 10px 0px;
+    border-radius: 10px 10px 10px 10px;
     margin-right: 10px;
 }
 
@@ -124,7 +120,8 @@ window#waybar {
 
 #battery {
     color:#a6adc8;
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px 10px 10px 10px;
+    margin-right: 10px;
     margin-left: 10px;
 }
 #power-profiles-daemon.performance {
@@ -176,4 +173,10 @@ window#waybar {
     margin-left: 5px;
     padding-right: 8px;
 }
-
+#mpris {
+    padding: 10px 10px;
+    color: #a6adc8;
+    border-radius: 10px 10px 10px 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}

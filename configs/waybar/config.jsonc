@@ -9,7 +9,8 @@
     "modules-left": [
         "clock",
 // "hyprland/workspaces"
-        "power-profiles-daemon"
+//        "mpris",
+        "power-profiles-daemon",
     ],
     "modules-center": ["hyprland/workspaces"],
     "modules-right": [
@@ -22,6 +23,17 @@
         "pulseaudio#microphone",
         "custom/notification"
     ],
+/*    "mpris": {
+        "format": "{player_icon} {title}",
+        "player-icons": {
+            "default": "",      // Font Awesome music icon
+            "firefox": "",
+            "spotify": ""
+        },
+//        "ignored-players": ["mpv"],  // optional, if you don’t want some players shown
+        "max-length": 20,            // truncate if too long
+        "interval": 1
+    }, */
     "power-profiles-daemon": {
 
 	    "format": "{icon}",
@@ -73,7 +85,7 @@
 
     "clock": {
         "format": "{:%A    %B-%d-%Y    %I:%M %p}",
-        "interval": 1,
+        "format-alt": "{:%A    %I:%M %p}",
         "rotate": 0,
         "tooltip-format": "<tt>{calendar}</tt>",
         "calendar": {
@@ -141,24 +153,6 @@
         "on-scroll-down": "pamixer --default-source -d 5",
         "scroll-step": 5
     },
-
-    "memory": {
-        "states": {
-            "c": 90, // critical
-            "h": 60, // high
-            "m": 30 // medium
-        },
-        "interval": 10,
-        "format": "󰾆 {used}GB",
-        "format-m": "󰾅 {used}GB",
-        "format-h": "󰓅 {used}GB",
-        "format-c": " {used}GB",
-        "format-alt": "󰾆 {percentage}%",
-        "max-length": 10,
-        "tooltip": true,
-        "tooltip-format": "󰾆 {percentage}%\n {used:0.1f}GB/{total:0.1f}GB"
-    },
-
     "network": {
         "tooltip": true,
         "format-wifi": "  {essid}",
@@ -169,5 +163,7 @@
         "tooltip-format-disconnected": "Disconnected",
         "format-alt": "<span foreground='#99ffdd'> {bandwidthDownBytes}</span> <span foreground='#ffcc66'> {bandwidthUpBytes}</span>",
         "interval": 2
-    }
+    },
+
 }
+
