@@ -1,0 +1,38 @@
+Mon Aug 18 03:51:00 PM +07 2025: Installation started
+Mon Aug 18 03:51:00 PM +07 2025: Original user is zombieconao
+Mon Aug 18 03:51:00 PM +07 2025: Arch Linux detected. Installation proceeding.
+Mon Aug 18 03:51:04 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:51:06 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:51:07 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:52:23 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:52:28 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:52:28 PM +07 2025: Installation completed successfully
+Mon Aug 18 03:52:31 PM +07 2025: Installation started
+Mon Aug 18 03:52:31 PM +07 2025: Original user is zombieconao
+Mon Aug 18 03:52:31 PM +07 2025: Arch Linux detected. Installation proceeding.
+Mon Aug 18 03:52:33 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:52:34 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:52:37 PM +07 2025: Operation accepted by user.
+Mon Aug 18 03:52:37 PM +07 2025: Installation started for utilities section
+Mon Aug 18 03:52:37 PM +07 2025: Attempting to run: Install Waybar - Status Bar
+Mon Aug 18 03:52:40 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:52:40 PM +07 2025: Install Waybar - Status Bar was skipped by user choice.
+Mon Aug 18 03:52:40 PM +07 2025: Attempting to run: Copy Waybar config
+Mon Aug 18 03:52:43 PM +07 2025: Operation accepted by user.
+Mon Aug 18 03:52:43 PM +07 2025: Copy Waybar config completed successfully.
+Mon Aug 18 03:52:43 PM +07 2025: Attempting to run: Install Wofi - Application Launcher
+Mon Aug 18 03:52:55 PM +07 2025: Operation accepted by user.
+Mon Aug 18 03:52:55 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Mon Aug 18 03:53:02 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:53:02 PM +07 2025: Install Wofi - Application Launcher was not completed due to failure and user chose not to retry.
+Mon Aug 18 03:53:02 PM +07 2025: Attempting to run: Copy Wofi config(s)
+Mon Aug 18 03:53:05 PM +07 2025: Operation accepted by user.
+Mon Aug 18 03:53:05 PM +07 2025: Copy Wofi config(s) completed successfully.
+Mon Aug 18 03:53:05 PM +07 2025: Attempting to run: Install Cliphist - Clipboard Manager
+Mon Aug 18 03:53:14 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:53:14 PM +07 2025: Install Cliphist - Clipboard Manager was skipped by user choice.
+Mon Aug 18 03:53:14 PM +07 2025: Attempting to run: Install SWWW for wallpaper management
+Mon Aug 18 03:53:15 PM +07 2025: Operation cancelled by user.
+Mon Aug 18 03:53:15 PM +07 2025: Install SWWW for wallpaper management was skipped by user choice.
+Mon Aug 18 03:53:15 PM +07 2025: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Mon Aug 18 03:53:21 PM +07 2025: Script interrupted and exited
