@@ -40,5 +40,6 @@ run_command "sudo pacman -S swaync" "Install swaync for nofify" "yes" "no"
 
 run_command "yay -S waypaper" "Install a GUI wallpaper select" "yes" "no"
 run_command "cp -r /home/$SUDO_USER/My-hyprland-config/configs/waypaper /home/$SUDO_USER/.config/" "Copy Waypaper config" "yes" "no"
+run_command "pacman -S --noconfirm gtk3" "Install gtk3" "yes" "no"
 
 echo "------------------------------------------------------------------------"
