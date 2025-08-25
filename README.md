@@ -7,15 +7,15 @@ Here is a peek of my desktop:
 ![Preview](Github-repo/screen-shot%231.png)]
 ![Preview](Github-repo/screen-shot%232.png)]
 
-# NOTE!!!!
-- This is not completed yet so there may has some bug/error.
+# NOTE!!!! ⚠️
+- This is not completed yet 🚧 so there may has some bug/error 🐞. 
 - This is made only for Arch (and based).
 - Warning, this dotfiles will replace all your config!!!!
 - And swww use a lot of ram, i recommend using hyprpaper if you don't want .gif wallpaper or transform effect. install hyprpaper:
 ```
 sudo pacman -S hyprpaper
 ```
-# Installation
+# Installation 💻
 1. Clone the repository to your home folder:
 ```
 git clone https://github.com/zombieconao/My-hyprland-config.git ~/My-hyprland-config
