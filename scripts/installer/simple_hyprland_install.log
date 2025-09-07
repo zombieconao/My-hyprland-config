@@ -36,3 +36,206 @@ Mon Aug 18 03:53:15 PM +07 2025: Operation cancelled by user.
 Mon Aug 18 03:53:15 PM +07 2025: Install SWWW for wallpaper management was skipped by user choice.
 Mon Aug 18 03:53:15 PM +07 2025: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
 Mon Aug 18 03:53:21 PM +07 2025: Script interrupted and exited
+Fri Sep  5 05:19:02 PM +07 2025: Installation started
+Fri Sep  5 05:19:02 PM +07 2025: Original user is zombieconao
+Fri Sep  5 05:19:02 PM +07 2025: Arch Linux detected. Installation proceeding.
+Fri Sep  5 05:19:04 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:19:04 PM +07 2025: Installation started for prerequisites section
+Fri Sep  5 05:19:04 PM +07 2025: Attempting to run: Update package database and upgrade packages (Recommended)
+Fri Sep  5 05:19:08 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:19:08 PM +07 2025: Update package database and upgrade packages (Recommended) was skipped by user choice.
+Fri Sep  5 05:19:08 PM +07 2025: Attempting to run: Install YAY (Must)/Breaks the script
+Fri Sep  5 05:19:11 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:19:11 PM +07 2025: Install YAY (Must)/Breaks the script was skipped by user choice.
+Fri Sep  5 05:19:11 PM +07 2025: Attempting to run: Configuring audio and brightness (Recommended)
+Fri Sep  5 05:19:18 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:19:46 PM +07 2025: Configuring audio and brightness (Recommended) completed successfully.
+Fri Sep  5 05:19:46 PM +07 2025: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Fri Sep  5 05:20:22 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:23:04 PM +07 2025: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Fri Sep  5 05:23:04 PM +07 2025: Attempting to run: Install and enable SDDM (Recommended)
+Fri Sep  5 05:23:08 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:23:08 PM +07 2025: Install and enable SDDM (Recommended) was skipped by user choice.
+Fri Sep  5 05:23:08 PM +07 2025: Attempting to run: Install Brave Browser
+Fri Sep  5 05:23:10 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:23:10 PM +07 2025: Install Brave Browser was skipped by user choice.
+Fri Sep  5 05:23:10 PM +07 2025: Attempting to run: Install Kitty (Recommended)
+Fri Sep  5 05:23:12 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:23:12 PM +07 2025: Install Kitty (Recommended) was skipped by user choice.
+Fri Sep  5 05:23:12 PM +07 2025: Attempting to run: Install nano
+Fri Sep  5 05:23:15 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:23:15 PM +07 2025: Install nano was skipped by user choice.
+Fri Sep  5 05:23:16 PM +07 2025: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Fri Sep  5 05:23:19 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:23:40 PM +07 2025: Install tar for extracting files (Must)/needed for copying themes completed successfully.
+Fri Sep  5 05:23:42 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:23:42 PM +07 2025: Installation started for hypr section
+Fri Sep  5 05:23:42 PM +07 2025: Attempting to run: Install Hyprland (Must)
+Fri Sep  5 05:23:44 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:23:44 PM +07 2025: Install Hyprland (Must) was skipped by user choice.
+Fri Sep  5 05:23:44 PM +07 2025: Attempting to run: Copy hyprland config (Must)
+Fri Sep  5 05:23:46 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:23:46 PM +07 2025: Copy hyprland config (Must) completed successfully.
+Fri Sep  5 05:23:46 PM +07 2025: Attempting to run: Install XDG desktop portal for Hyprland
+Fri Sep  5 05:23:50 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:23:56 PM +07 2025: Install XDG desktop portal for Hyprland completed successfully.
+Fri Sep  5 05:23:56 PM +07 2025: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Fri Sep  5 05:23:58 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:24:08 PM +07 2025: Install KDE Polkit agent for authentication dialogs completed successfully.
+Fri Sep  5 05:24:08 PM +07 2025: Attempting to run: Install QT support on wayland
+Fri Sep  5 05:24:12 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:24:37 PM +07 2025: Install QT support on wayland completed successfully.
+Fri Sep  5 05:24:39 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:24:39 PM +07 2025: Installation started for utilities section
+Fri Sep  5 05:24:39 PM +07 2025: Attempting to run: Install Waybar - Status Bar
+Fri Sep  5 05:24:41 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:15 PM +07 2025: Install Waybar - Status Bar completed successfully.
+Fri Sep  5 05:25:15 PM +07 2025: Attempting to run: Copy Waybar config
+Fri Sep  5 05:25:36 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:36 PM +07 2025: Copy Waybar config completed successfully.
+Fri Sep  5 05:25:36 PM +07 2025: Attempting to run: Install Wofi - Application Launcher
+Fri Sep  5 05:25:42 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:42 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:48 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:48 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:49 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:49 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:49 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:49 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:49 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:49 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:49 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:49 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:49 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:50 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:50 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:50 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:50 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:50 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:50 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:50 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:50 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:50 PM +07 2025: Command failed: pacman -S --noconfirm wofi
+Fri Sep  5 05:25:53 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:25:53 PM +07 2025: Install Wofi - Application Launcher was not completed due to failure and user chose not to retry.
+Fri Sep  5 05:25:53 PM +07 2025: Attempting to run: Copy Wofi config(s)
+Fri Sep  5 05:25:56 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:25:57 PM +07 2025: Copy Wofi config(s) completed successfully.
+Fri Sep  5 05:25:57 PM +07 2025: Attempting to run: Install Cliphist - Clipboard Manager
+Fri Sep  5 05:25:59 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:26:16 PM +07 2025: Install Cliphist - Clipboard Manager completed successfully.
+Fri Sep  5 05:26:16 PM +07 2025: Attempting to run: Install SWWW for wallpaper management
+Fri Sep  5 05:26:24 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:26:24 PM +07 2025: Command failed: yay -S --sudoloop --noconfirm swww
+Fri Sep  5 05:30:41 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:30:53 PM +07 2025: Install SWWW for wallpaper management completed successfully.
+Fri Sep  5 05:30:53 PM +07 2025: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Fri Sep  5 05:30:58 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:30:59 PM +07 2025: Copy sample wallpapers to assets directory (Recommended) completed successfully.
+Fri Sep  5 05:30:59 PM +07 2025: Attempting to run: Install Hyprpicker - Color Picker
+Fri Sep  5 05:31:03 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:31:03 PM +07 2025: Install Hyprpicker - Color Picker was skipped by user choice.
+Fri Sep  5 05:31:03 PM +07 2025: Attempting to run: Install Hyprlock - Screen Locker (Must)
+Fri Sep  5 05:31:06 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:31:15 PM +07 2025: Install Hyprlock - Screen Locker (Must) completed successfully.
+Fri Sep  5 05:31:15 PM +07 2025: Attempting to run: Copy Hyprlock config
+Fri Sep  5 05:31:18 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:31:19 PM +07 2025: Copy Hyprlock config completed successfully.
+Fri Sep  5 05:31:19 PM +07 2025: Attempting to run: Install Wlogout - Session Manager
+Fri Sep  5 05:31:20 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:32:29 PM +07 2025: Install Wlogout - Session Manager completed successfully.
+Fri Sep  5 05:32:29 PM +07 2025: Attempting to run: Copy Wlogout config and assets
+Fri Sep  5 05:32:34 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:32:34 PM +07 2025: Copy Wlogout config and assets completed successfully.
+Fri Sep  5 05:32:34 PM +07 2025: Attempting to run: Install Grimblast - Screenshot tool
+Fri Sep  5 05:32:41 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:32:51 PM +07 2025: Install Grimblast - Screenshot tool completed successfully.
+Fri Sep  5 05:32:51 PM +07 2025: Attempting to run: Install Hypridle for idle management (Must)
+Fri Sep  5 05:32:54 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:33:05 PM +07 2025: Install Hypridle for idle management (Must) completed successfully.
+Fri Sep  5 05:33:05 PM +07 2025: Attempting to run: Copy Hypridle config
+Fri Sep  5 05:33:08 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:33:08 PM +07 2025: Copy Hypridle config completed successfully.
+Fri Sep  5 05:33:08 PM +07 2025: Attempting to run: Install power-profile-daemon
+Fri Sep  5 05:33:13 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:33:25 PM +07 2025: Install power-profile-daemon completed successfully.
+Fri Sep  5 05:33:25 PM +07 2025: Attempting to run: Install optional pack for pipewire
+Fri Sep  5 05:33:29 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:33:29 PM +07 2025: Install optional pack for pipewire was skipped by user choice.
+Fri Sep  5 05:33:29 PM +07 2025: Attempting to run: Install swaync for nofify
+Fri Sep  5 05:33:32 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:33:47 PM +07 2025: Install swaync for nofify completed successfully.
+Fri Sep  5 05:33:47 PM +07 2025: Attempting to run: Install a GUI wallpaper select
+Fri Sep  5 05:33:50 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:07 PM +07 2025: Install a GUI wallpaper select completed successfully.
+Fri Sep  5 05:36:07 PM +07 2025: Attempting to run: Copy Waypaper config
+Fri Sep  5 05:36:10 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:10 PM +07 2025: Copy Waypaper config completed successfully.
+Fri Sep  5 05:36:10 PM +07 2025: Attempting to run: Install gtk3
+Fri Sep  5 05:36:12 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:12 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:16 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:16 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:16 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:16 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:16 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:17 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:17 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:17 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:17 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:17 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:17 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:17 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:17 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:17 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:17 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:17 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:17 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:17 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:17 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:18 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:18 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:18 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:18 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:18 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:18 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:18 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:18 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:19 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:19 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:19 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:19 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:19 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:19 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:19 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:19 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:19 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:19 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:19 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:19 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:19 PM +07 2025: Command failed: pacman -S --noconfirm gtk3
+Fri Sep  5 05:36:20 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:36:20 PM +07 2025: Install gtk3 was not completed due to failure and user chose not to retry.
+Fri Sep  5 05:36:23 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:23 PM +07 2025: Installation started for theming section
+Fri Sep  5 05:36:23 PM +07 2025: Attempting to run: Install nwg-look for GTK theme management
+Fri Sep  5 05:36:24 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:30 PM +07 2025: Install nwg-look for GTK theme management completed successfully.
+Fri Sep  5 05:36:30 PM +07 2025: Attempting to run: Install Qt5, Qt6 Settings, and Kvantum theme engines
+Fri Sep  5 05:36:37 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:42 PM +07 2025: Install Qt5, Qt6 Settings, and Kvantum theme engines completed successfully.
+Fri Sep  5 05:36:43 PM +07 2025: Attempting to run: Install Catppuccin Mocha GTK theme
+Fri Sep  5 05:36:45 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:45 PM +07 2025: Install Catppuccin Mocha GTK theme completed successfully.
+Fri Sep  5 05:36:45 PM +07 2025: Attempting to run: Install Tela Grey Dark icon theme
+Fri Sep  5 05:36:48 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:36:53 PM +07 2025: Install Tela Grey Dark icon theme completed successfully.
+Fri Sep  5 05:36:53 PM +07 2025: Attempting to run: Install Catppuccin theme for Kvantum
+Fri Sep  5 05:36:55 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:37:31 PM +07 2025: Install Catppuccin theme for Kvantum completed successfully.
+Fri Sep  5 05:37:31 PM +07 2025: Attempting to run: Copy Catppuccin theme configuration for Kitty terminal
+Fri Sep  5 05:37:36 PM +07 2025: Operation cancelled by user.
+Fri Sep  5 05:37:36 PM +07 2025: Copy Catppuccin theme configuration for Kitty terminal was skipped by user choice.
+Fri Sep  5 05:37:37 PM +07 2025: Operation accepted by user.
+Fri Sep  5 05:37:37 PM +07 2025: Final setup script started
+Fri Sep  5 05:37:37 PM +07 2025: Installation completed successfully
