@@ -1,5 +1,7 @@
 # My Hyprland Config
 
+!!! DO NOT CLONE IT FOR NOW, THERE IS LOCKSCREEN BUG, QT APPS ERROR AND MORE!......!!!!
+
 This is my hyprland config based on gaurav23b's simple hyprland config.
 I just upload on github for save this config but you can copy it if you want 😉
 
