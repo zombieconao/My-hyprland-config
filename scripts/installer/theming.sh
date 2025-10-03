@@ -13,13 +13,13 @@ run_command "pacman -S --noconfirm nwg-look" "Install nwg-look for GTK theme man
 
 run_command "pacman -S --noconfirm qt5ct qt6ct kvantum" "Install Qt5, Qt6 Settings, and Kvantum theme engines" "yes"
 
-run_command "tar -xvf /home/$SUDO_USER/My-hyprland-config/assets/themes/Catppuccin-Mocha.tar.xz -C /usr/share/themes/" "Install Catppuccin Mocha GTK theme" "yes" 
+run_command "tar -xvf /home/$SUDO_USER/dot/assets/themes/Catppuccin-Mocha.tar.xz -C /usr/share/themes/" "Install Catppuccin Mocha GTK theme" "yes" 
 
-run_command "tar -xvf /home/$SUDO_USER/My-hyprland-config/assets/icons/Tela-blue.tar.xz -C /usr/share/icons/" "Install Tela Blue Dark icon theme" "yes"
+run_command "tar -xvf /home/$SUDO_USER/dot/assets/icons/Tela-blue.tar.xz -C /usr/share/icons/" "Install Tela Blue Dark icon theme" "yes"
 
 run_command "yay -S --sudoloop --noconfirm kvantum-theme-catppuccin-git" "Install Catppuccin theme for Kvantum" "yes" "no"
 
-run_command "cp -r /home/$SUDO_USER/My-hyprland-config/configs/kitty /home/$SUDO_USER/.config/" "Copy Catppuccin theme configuration for Kitty terminal" "yes" "no"
+run_command "cp -r /home/$SUDO_USER/dot/configs/kitty /home/$SUDO_USER/.config/" "Copy Catppuccin theme configuration for Kitty terminal" "yes" "no"
 
 # Add instructions to configure theming
 print_info "\nPost-installation instructions:"

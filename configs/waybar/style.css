@@ -173,10 +173,3 @@ window#waybar {
     margin-left: 5px;
     padding-right: 8px;
 }
-#mpris {
-    padding: 10px 10px;
-    color: #a6adc8;
-    border-radius: 10px 10px 10px 10px;
-    margin-right: 10px;
-    margin-left: 10px;
-}

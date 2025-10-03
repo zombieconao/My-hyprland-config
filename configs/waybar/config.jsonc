@@ -23,17 +23,6 @@
         "pulseaudio#microphone",
         "custom/notification"
     ],
-/*    "mpris": {
-        "format": "{player_icon} {title}",
-        "player-icons": {
-            "default": "",      // Font Awesome music icon
-            "firefox": "",
-            "spotify": ""
-        },
-//        "ignored-players": ["mpv"],  // optional, if you don’t want some players shown
-        "max-length": 20,            // truncate if too long
-        "interval": 1
-    }, */
     "power-profiles-daemon": {
 
 	    "format": "{icon}",

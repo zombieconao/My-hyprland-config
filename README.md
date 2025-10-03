@@ -6,8 +6,8 @@ This is my hyprland config based on gaurav23b's simple hyprland config.
 I just upload on github for save this config but you can copy it if you want 😉
 
 Here is a peek of my desktop:
-![Preview](Github-repo/screen-shot%231.png)]
-![Preview](Github-repo/screen-shot%232.png)]
+![Preview](Github-repo/screen-shot%231.png)
+![Preview](Github-repo/screen-shot%232.png)
 
 # NOTE!!!! ⚠️
 - This is not completed yet 🚧 so there may has some bug/error 🐞. 
@@ -20,7 +20,7 @@ sudo pacman -S hyprpaper
 # Installation 💻
 1. Clone the repository to your home folder:
 ```
-git clone https://github.com/zombieconao/My-hyprland-config.git ~/My-hyprland-config
+git clone https://github.com/zombieconao/My-hyprland-config.git ~/dot
 ```
 2. Navigate to the installer directory:
 ```
@@ -30,4 +30,3 @@ cd ~/My-hyprland-config/scripts/installer/
 ```
 sudo sh install.sh
 ```
-
