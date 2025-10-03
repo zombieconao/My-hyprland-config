@@ -1,7 +1,5 @@
 # My Hyprland Config
 
-!!! DO NOT CLONE IT FOR NOW, THERE IS LOCKSCREEN BUG, QT APPS ERROR AND MORE!......!!!!
-
 This is my hyprland config based on gaurav23b's simple hyprland config.
 I just upload on github for save this config but you can copy it if you want 😉
 
@@ -18,7 +16,7 @@ Here is a peek of my desktop:
 sudo pacman -S hyprpaper
 ```
 # Installation 💻
-1. Clone the repository to your home folder:
+1. Clone the repository to your home folder with name "dot", DO NOT CLONE WITH A DIFFERENT NAME:
 ```
 git clone https://github.com/zombieconao/My-hyprland-config.git ~/dot
 ```
