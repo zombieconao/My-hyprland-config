@@ -8,9 +8,10 @@ Here is a peek of my desktop:
 ![Preview](Github-repo/screen-shot%232.png)
 
 # NOTE!!!! ⚠️
+- This config is sucks, i know.
 - This is not completed yet 🚧 so there may has some bug/error 🐞. 
 - This is made only for Arch (and based).
-- Warning, this dotfiles will replace all your config!!!!
+- THIS DOTFILES WILL REPLACE ALL YOUR OLD CONFIG!!!!
 - And swww use a lot of ram, i recommend using hyprpaper if you don't want .gif wallpaper or transform effect. install hyprpaper:
 ```
 sudo pacman -S hyprpaper
@@ -22,7 +23,7 @@ git clone https://github.com/zombieconao/My-hyprland-config.git ~/dot
 ```
 2. Navigate to the installer directory:
 ```
-cd ~/My-hyprland-config/scripts/installer/
+cd ~/dot/scripts/installer/
 ```
 3. Run the installation script with sudo:
 ```
