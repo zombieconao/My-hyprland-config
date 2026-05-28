@@ -15,7 +15,7 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 LOG_FILE="$SCRIPT_DIR/simple_hyprland_install.log"
 
 function trap_message {
-    print_error "\n\nYou 🫵 was pressed ctrl+C so.... bye. Exiting.....\n"
+    print_error "\n\nYou 🫵 pressed ctrl+C so.... bye. Exiting.....\n"
     # Add any cleanup code here
     log_message "Script interrupted and exited"
     exit 1
